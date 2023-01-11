@@ -1,0 +1,23 @@
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  tr:nth-child(even) {
+    background-color: #D6EEEE;
+    
+  }
+  tr:hover{
+    background-color: aquamarine;
+  }
+body{
+     background-color: bisque; 
+  }
+  h1{
+    background-color: brown;
+    color: white;
+
+  }
+td{
+    text-align: center;
+}
+  
